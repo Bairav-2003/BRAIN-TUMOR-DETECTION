@@ -11,7 +11,7 @@
 <!-- wp:heading {"level":3} -->
 ## Flowchart
 
-![C:\Users\makes\Desktop\sa.jpg](https://github.com/ragulvk/BRAIN-TUMOR-DETECTION/assets/94165252/7bd26254-4bd9-4759-884d-00cc2c0c95c6)
+!["C:\Users\makes\Desktop\sa.jpg"](https://github.com/Bairav-2003/BRAIN-TUMOR-DETECTION/blob/main/sa.jpg)
 <h3>Requirements:</h3>
 <!-- /wp:heading -->
 
